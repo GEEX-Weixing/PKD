@@ -12,4 +12,4 @@ python arxiv_1.py
 
 ## Notations
 
-If you meet any problems, please contact us by email.
+If you meet any problems, please contact us by email (xing627@tongji.edu.cn).
